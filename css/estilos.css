@@ -1,0 +1,39 @@
+body {
+  background-image:   
+        url(https://images.alphacoders.com/211/211551.jpg);
+        background: auto 100vh;
+        font-family: Optima;
+        height: 100vh;
+        img{ filter: blur(5px) }
+}
+
+.menu {
+    background-color: #aa5377;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.site-subtitle,
+.site-title {
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
